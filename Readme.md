@@ -10,9 +10,24 @@
     </td>
   </tr>
 </table>
+
 ✨ About Me
 
 Hi, I’m Siddhant Gupta, a Computer Science engineering student and Full-Stack Developer focused on building scalable and intelligent software solutions.
 I enjoy working across the stack—combining frontend, backend, and AI-driven features to turn ideas into real-world products.
 
 I value strong fundamentals, clean implementation, and system-level thinking while solving practical problems.
+
+🛠️ What I Build
+
+🌐 Full-Stack Web Applications: MERN & Next.js apps with authentication, dashboards, and REST APIs
+
+🤖 AI-Powered Tools: AI PDF summarizers, flowchart generators, and LLM-based assistants
+
+🧩 LLM Integrations: OpenAI / LLaMA-based workflows, AI automation, and smart content systems
+
+📈 Data-Driven Systems: PostgreSQL & MongoDB-backed applications with optimized queries
+
+🛰️ System-Oriented Projects: Software–hardware integrated solutions (SIH experience)
+
+🔐 Secure Backends: JWT & Firebase authentication, role-based access, scalable APIs
