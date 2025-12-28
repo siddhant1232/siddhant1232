@@ -37,64 +37,33 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
 ## ⚡ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=120&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Development;AI-Powered+Applications;System-Level+Thinking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=120&color=4FC3F7&center=true&vCenter=true&width=520&lines=Full-Stack+Development+%7C+AI+Tools+%7C+System+Thinking" />
 </p>
 
----
-
-### 🧠 Core
 <p align="center">
+  <b>Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" />
 </p>
 
----
-
-### 🌐 Frontend
 <p align="center">
+  <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
 </p>
 
----
-
-### 🔧 Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
+  <b>Backend & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql&theme=dark" />
 </p>
 
-- **REST APIs**, **JWT Auth**, **RBAC**, **Scalable Backend Design**
-
----
-
-### 🧠 AI & Intelligent Systems
-- **LLM-powered tools** (PDF summarization, automation)
-- **OpenAI / LLaMA** integrations
-- **AI-assisted workflows**
-
----
-
-### 📊 Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
+  <b>AI • Cloud • Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vercel&theme=dark" />
 </p>
 
-- **Optimized queries**, **data modeling**, **scalable storage**
-
----
-
-### ☁️ Cloud & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github&theme=dark" />
+  <sub>
+    LLM-powered apps • REST APIs • JWT Auth • System-level thinking • SIH (Hardware)
+  </sub>
 </p>
 
 ---
-
-### 🛰️ System Exposure
-- **Software–hardware integration**
-- **IoT-aware architecture**
-- **SIH (Hardware Edition) experience**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:333333&height=2"/>
-</p>
