@@ -37,7 +37,15 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
 ## ⚡ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=120&color=4FC3F7&center=true&vCenter=true&width=520&lines=Full-Stack+Development+%7C+AI+Tools+%7C+System+Thinking" />
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Orbitron
+  &size=18
+  &pause=120
+  &color=4FC3F7
+  &center=true
+  &vCenter=true
+  &width=650
+  &lines=Full-Stack+Development+%7C+AI+Tools+%7C+System+Thinking" />
 </p>
 
 <p align="center">
