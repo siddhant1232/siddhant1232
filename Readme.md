@@ -79,10 +79,10 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:siddhantgupta@example.com">
+  <a href="mailto:siddhantgupta797400@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/siddhant-gupta-8934a7297/">
+  <a href="https://www.linkedin.com/in/siddhant62632/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://web-resume-mauve.vercel.app/">
