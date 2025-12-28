@@ -13,7 +13,7 @@
 
 ---
 
-🧠 **About Me**
+✨ **About Me**
 
 Hi, I’m **Siddhant Gupta**, a **Computer Science engineering student** and **Full-Stack Developer** focused on building **practical, scalable, and intelligent software solutions**.  
 I enjoy working across the stack—combining **frontend**, **backend**, and **AI-driven features** to turn ideas into **real-world products**.
@@ -22,7 +22,7 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
 
 ---
 
-🧩 **What I Build**
+🛠️ **What I Build**
 
 - 💻 **Full-Stack Web Applications**: **MERN** & **Next.js** apps with **authentication**, **dashboards**, and **REST APIs**
 - 🤖 **AI-Powered Tools**: **AI PDF summarizers**, **flowchart generators**, and **LLM-based assistants**
