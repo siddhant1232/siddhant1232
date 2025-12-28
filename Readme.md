@@ -10,3 +10,9 @@
     </td>
   </tr>
 </table>
+✨ About Me
+
+Hi, I’m Siddhant Gupta, a Computer Science engineering student and Full-Stack Developer focused on building scalable and intelligent software solutions.
+I enjoy working across the stack—combining frontend, backend, and AI-driven features to turn ideas into real-world products.
+
+I value strong fundamentals, clean implementation, and system-level thinking while solving practical problems.
