@@ -34,28 +34,24 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
 
 ---
 
-## ⚡ Tech Stack & Skills
+## ⚡ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=120&color=4FC3F7&center=true&vCenter=true&width=650&lines=Full-Stack+Development;AI+Powered+Applications;System+Thinking+%26+Clean+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=120&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Development;AI-Powered+Applications;System-Level+Thinking" />
 </p>
 
 ---
 
-### 🧠 Core Programming & Fundamentals
+### 🧠 Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" />
 </p>
 
 ---
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
@@ -65,57 +61,40 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
 </p>
 
-- RESTful APIs  
-- JWT Authentication  
-- Role-Based Access Control  
-- Secure Backend Design  
+- **REST APIs**, **JWT Auth**, **RBAC**, **Scalable Backend Design**
 
 ---
 
 ### 🧠 AI & Intelligent Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-</p>
-
-- LLM-powered tools (PDF Summarizer, Flowchart Generator)  
-- OpenAI / LLaMA-based workflows  
-- AI automation & smart content systems  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="420" />
-</p>
+- **LLM-powered tools** (PDF summarization, automation)
+- **OpenAI / LLaMA** integrations
+- **AI-assisted workflows**
 
 ---
 
-### 📊 Databases & Data Handling
+### 📊 Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" />
 </p>
 
-- Optimized SQL queries  
-- Structured data modeling  
-- Scalable data-backed systems  
+- **Optimized queries**, **data modeling**, **scalable storage**
 
 ---
 
-### ☁️ Cloud, Tools & DevOps
+### ☁️ Cloud & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,vercel,git,github&theme=dark" />
 </p>
 
-- AWS (S3, EC2 basics)  
-- Deployment with Vercel  
-- Version control & collaboration  
-
 ---
 
-### 🛰️ System & Hardware Exposure
-- Software–hardware integrated systems  
-- IoT-aware architecture  
-- Real-world constraints handling (SIH experience)
+### 🛰️ System Exposure
+- **Software–hardware integration**
+- **IoT-aware architecture**
+- **SIH (Hardware Edition) experience**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:333333&height=2"/>
 </p>
