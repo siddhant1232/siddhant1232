@@ -75,3 +75,26 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
 </p>
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:siddhantgupta@example.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/siddhant-gupta-8934a7297/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web-resume-mauve.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2D2D2D?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/siddhant1232">
+    <img src="https://img.shields.io/badge/GITHUB-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhant1232&label=Profile+Views&color=4FC3F7&style=flat" />
+</p>
+
+---
