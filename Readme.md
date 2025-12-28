@@ -33,7 +33,15 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
 
 
 ---
+## 🧠 Skill Set
 
+<p align="center">
+  <img src="./skill-set" alt="Skill Set" width="100%" />
+</p>
+
+
+
+---
 ## ⚡ Skills & Tech Stack
 
 <p align="center">
