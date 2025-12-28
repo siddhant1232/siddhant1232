@@ -33,57 +33,14 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
 
 
 ---
+
 ## 🧠 Skill Set
 
 <p align="center">
   <img src="./skill-set" alt="Skill Set" width="100%" />
 </p>
 
-
-
 ---
-## ⚡ Skills & Tech Stack
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Orbitron
-  &size=18
-  &pause=120
-  &color=4FC3F7
-  &center=true
-  &vCenter=true
-  &width=650
-  &lines=Full-Stack+Development+%7C+AI+Tools+%7C+System+Thinking" />
-</p>
-
-<p align="center">
-  <b>Languages</b><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Backend & Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgresql&theme=dark" />
-</p>
-
-<p align="center">
-  <b>AI • Cloud • Tools</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vercel&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>
-    LLM-powered apps • REST APIs • JWT Auth • System-level thinking • SIH (Hardware)
-  </sub>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
