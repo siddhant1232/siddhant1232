@@ -51,7 +51,7 @@ I’m driven by **strong fundamentals**, **system-level thinking**, and **clean 
   <a href="https://www.linkedin.com/in/siddhant62632/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://web-resume-mauve.vercel.app/">
+  <a href="https://portfolio-teal-nine-67.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-2D2D2D?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/siddhant1232">
