@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=Building+full-stack+%26+AI-powered+products;MERN+%7C+Next.js+%7C+LLM+Integrations;SIH+2025+Finalist;Open-Source+Security+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8B5CF6&center=true&vCenter=true&width=580&lines=Full-Stack+%26+AI-Powered+Product+Builder;Scalable+SaaS+%7C+Real-Time+Systems+%7C+LLM+Integrations;Strong+CS+Fundamentals+%7C+DSA+%7C+System+Design;SIH+2025+Finalist" alt="Typing SVG" />
 
 </div>
 
@@ -14,16 +14,18 @@
 
 ```ts
 const siddhant = {
-  role      : "Full-Stack Developer  &  CS Engineering Student",
-  focus     : ["Scalable Web Apps", "AI-Powered Tools", "System Design"],
-  stack     : ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB"],
-  ai        : ["OpenAI API", "LLaMA", "LLM Workflows", "AI Automation"],
-  interests : ["Open-Source", "Security", "Product Engineering"],
+  role        : "Full-Stack Developer  &  CS Engineering Student",
+  focus       : ["Scalable SaaS Products", "AI-Driven Platforms", "System Design"],
+  stack       : ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB"],
+  ai          : ["OpenAI API", "LLaMA", "LLM Workflows", "AI Automation"],
+  cs_core     : ["DSA", "Operating Systems", "DBMS", "System Design"],
+  interests   : ["Open-Source", "Security", "Product Engineering"],
 };
 ```
 
-I work across the full stack — combining frontend, backend, and AI-driven features to build practical, scalable software.
-I care about strong fundamentals, clean architecture, and shipping things that actually work in the real world.
+I'm an execution-focused developer with a strong foundation in core computer science — DSA, OS, DBMS, and System Design.
+I build full-stack and AI-powered applications with a focus on optimized backend systems, efficient database schemas, and real-time architectures using WebSockets.
+I take complete ownership of projects, from idea and architecture through to deployment, and I'm particularly drawn to building scalable SaaS products and AI-driven platforms.
 
 ---
 
@@ -34,9 +36,10 @@ I care about strong fundamentals, clean architecture, and shipping things that a
 | **Full-Stack Web Apps** | MERN & Next.js applications with authentication, dashboards, and REST APIs |
 | **AI-Powered Tools** | PDF summarizers, flowchart generators, and LLM-based assistants |
 | **LLM Integrations** | OpenAI / LLaMA workflows, AI automation, and smart content pipelines |
-| **Data-Driven Systems** | PostgreSQL & MongoDB backends with optimized queries and clean schemas |
+| **Real-Time Systems** | WebSocket-based (Socket.IO) live features — chat, notifications, collaborative tools |
+| **Optimized Backends** | Query-tuned PostgreSQL & MongoDB schemas, efficient indexing, and clean API design |
+| **Secure & Scalable APIs** | JWT & Firebase auth, role-based access control, modular architecture |
 | **System-Level Projects** | Software–hardware integrated solutions — built during SIH 2025 |
-| **Secure Backends** | JWT & Firebase auth, role-based access control, and scalable API design |
 
 ---
 
@@ -56,6 +59,7 @@ I care about strong fundamentals, clean architecture, and shipping things that a
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Database & Auth**
@@ -101,9 +105,11 @@ I care about strong fundamentals, clean architecture, and shipping things that a
 ## Highlights
 
 - **SIH 2025 Finalist** — Smart India Hackathon, one of India's largest national-level hackathons
-- **AI Product Builder** — shipped multiple production LLM-integrated tools end-to-end
+- **AI Product Builder** — shipped multiple production-ready LLM-integrated tools end-to-end
+- **Real-Time Systems** — hands-on experience building WebSocket-based features with Socket.IO
+- **CS Fundamentals** — consistent practice in DSA, OS, DBMS, and System Design
 - **Open-Source Security Enthusiast** — actively contributing and exploring security-focused projects
-- **Full Ownership** — from architecture and API design to deployment and iteration
+- **Full Ownership** — from architecture and schema design to deployment and iteration
 
 ---
 
